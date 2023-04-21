@@ -1,4 +1,4 @@
-Welcome to Plants vs Zombies! 
+# Welcome to Plants vs Zombies! 
 
 In this game, you are the zombie. Your mission is to advance through the garden to get to the house and eat the brainzzz. Use the arrow keys for the zombie's left, right, up, down movement.
 
