@@ -5,7 +5,7 @@ The game features a zombie who must evade the plants' attacks and reach the hous
 PlantsVsZombies is a creative spin-off of the orginal made by PopCap Games Inc, providing a fresh new perspective on the gameplay.
 
 ## 🌲Notice
-Developed individually at Georgia Tech. Inspired by<img src="https://m.media-amazon.com/images/I/61mxPkeMWRL._AC_UF894,1000_QL80_.jpg" width="20"/>Plants vs. Zombies by PopCap Games Inc. Made for educational and personal use only.
+Developed individually at Georgia Tech. Inspired by<img src="https://static.wikia.nocookie.net/plantsvszombies/images/f/fb/Buckethead_Zombie.png/revision/latest/scale-to-width-down/120?cb=20220921131153" width="20"/>Plants vs. Zombies by PopCap Games Inc. Made for educational and personal use only.
 
 ## 🌲Tech Stack
 ![C](https://img.shields.io/badge/c-a?style=for-the-badge&logo=c&logoColor=white&color=00599C)
